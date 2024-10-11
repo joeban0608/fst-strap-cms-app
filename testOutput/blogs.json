@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "id": 2,
+      "documentId": "luzh776d5emhb5t0ll6y6t2q",
+      "body": [
+        {
+          "type": "heading",
+          "children": [{ "type": "text", "text": "Fst Post", "bold": true }],
+          "level": 1
+        },
+        {
+          "type": "paragraph",
+          "children": [{ "type": "text", "text": "There is fst post" }]
+        }
+      ],
+      "createdAt": "2024-10-11T07:07:46.099Z",
+      "updatedAt": "2024-10-11T07:07:46.099Z",
+      "publishedAt": "2024-10-11T07:07:46.107Z",
+      "locale": null
+    }
+  ],
+  "meta": {
+    "pagination": { "page": 1, "pageSize": 25, "pageCount": 1, "total": 1 }
+  }
+}

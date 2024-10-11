@@ -32,5 +32,6 @@
   },
   "strapi": {
     "uuid": "3707b03c-2c22-4722-90fd-6e63e3230323"
-  }
+  },
+  "packageManager": "yarn@4.5.0"
 }
